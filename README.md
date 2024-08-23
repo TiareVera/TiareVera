@@ -35,14 +35,15 @@ Pagina web para Candel Medical Company, una empresa especializada en  <strong>tr
   <td width="50%">
 <h3 align="center">CandelApp</h3>
 <div align="center">
-<a href="https://apps.apple.com/cl/app/candelapp/id6450345984" target="_blank"><img src="https://play-lh.googleusercontent.com/SrM1FfUasnMCDPTwkYbDDxUJlT46Mln5-teGhZ7IyNo9Ujf16g7sI4gAe78r3mxRKRA=w480-h960-rw" width="350"></a>
+<a href="https://apps.apple.com/cl/app/candelapp/id6450345984" target="_blank"><img width="60%" src="https://play-lh.googleusercontent.com/SrM1FfUasnMCDPTwkYbDDxUJlT46Mln5-teGhZ7IyNo9Ujf16g7sI4gAe78r3mxRKRA=w480-h960-rw" width="350"></a>
 <p>
 <img src="https://img.shields.io/badge/CÓDIGO PRIVADO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 
   <p>
-Candelapp es una <strong>herramienta complementaria </strong> a los tratamientos de rehabilitación neurológica ofrecidos por Candel Medical Company. Diseñada para ser utilizada junto al dispositivo CandelStim a travez de una conexión Bluetooth 
+Candelapp es una <strong>herramienta complementaria </strong> a los tratamientos de rehabilitación neurológica ofrecidos por Candel. </p>
+    <p> Diseñada para ser utilizada junto al dispositivo CandelStim a travez de una conexión Bluetooth 
 </p>
 </div>                                                                                     
 </td>
