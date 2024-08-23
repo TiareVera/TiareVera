@@ -35,7 +35,7 @@ Pagina web para Candel Medical Company, una empresa especializada en  <strong>tr
   <td width="50%">
 <h3 align="center">CandelApp</h3>
 <div align="center">
-<a href="https://www.candelmed.com/" target="_blank"><img src="https://play-lh.googleusercontent.com/SrM1FfUasnMCDPTwkYbDDxUJlT46Mln5-teGhZ7IyNo9Ujf16g7sI4gAe78r3mxRKRA=w480-h960-rw" width="350"></a>
+<a href="https://apps.apple.com/cl/app/candelapp/id6450345984" target="_blank"><img src="https://play-lh.googleusercontent.com/SrM1FfUasnMCDPTwkYbDDxUJlT46Mln5-teGhZ7IyNo9Ujf16g7sI4gAe78r3mxRKRA=w480-h960-rw" width="350"></a>
 <p>
 <img src="https://img.shields.io/badge/CÓDIGO PRIVADO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
