@@ -21,7 +21,7 @@
 <div align="center">
 <a href="https://www.candelmed.com/" target="_blank"><img src="https://www.candelmed.com/_next/image?url=%2Fimage%2Fcandel.png&w=384&q=75" width="400"></a>
 <p>
-<a href="https://www.candelmed.com/" target="_blank"><img src="https://img.shields.io/badge/Link Proyecto-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://www.candelmed.com/" target="_blank"><img src="https://img.shields.io/badge/Link Proyect-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 </a>
 </p>
 <p>
@@ -38,14 +38,17 @@ They stand out for offering innovative solutions in this field, using cutting-ed
 <div align="center">
 <a href="https://apps.apple.com/cl/app/candelapp/id6450345984" target="_blank"><img width="60%" src="https://play-lh.googleusercontent.com/SrM1FfUasnMCDPTwkYbDDxUJlT46Mln5-teGhZ7IyNo9Ujf16g7sI4gAe78r3mxRKRA=w480-h960-rw" width="350"></a>
 <p>
-<a href="https://www.candelmed.com/" target="_blank"><img src="https://img.shields.io/badge/Link Proyecto-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://www.candelmed.com/" target="_blank"><img src="https://img.shields.io/badge/Link Proyect-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 </a>
 </p>
 
-  <p>
-Candelapp es una <strong>herramienta complementaria </strong> a los tratamientos de rehabilitación neurológica ofrecidos por Candel. </p>
-    <p> Diseñada para ser utilizada junto al dispositivo CandelStim a travez de una conexión Bluetooth 
+ <p>
+Candelapp is a <strong>complementary tool</strong> to the neurological rehabilitation treatments offered by Candel.
 </p>
+<p>
+Designed to be used alongside the CandelStim device through a Bluetooth connection.
+</p>
+
 </div>                                                                                     
 </td>
 </table>
