@@ -6,11 +6,11 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- ⭐ Computer science engineer from Santiago, Chile ⭐ 
 - 🖥️ Web developer
 - 📲 Mobile developer
-- 🖨️ Impresiones en 3D
-- 🧑‍🏫 Creadora de [Jet impresiones 3d](https://jetimpresiones3d.com/)
+- 🖨️ 3D Printer
+- 🧑‍🏫 Owner [Jet impresiones 3d](https://jetimpresiones3d.com/)
 <br>
 
 ## Proyectos *bombitas*
@@ -21,13 +21,14 @@
 <div align="center">
 <a href="https://www.candelmed.com/" target="_blank"><img src="https://www.candelmed.com/_next/image?url=%2Fimage%2Fcandel.png&w=384&q=75" width="400"></a>
 <p>
-<img src="https://img.shields.io/badge/CÓDIGO PRIVADO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://www.candelmed.com/" target="_blank"><img src="https://img.shields.io/badge/Link Proyecto-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 </a>
 </p>
 <p>
-Pagina web para Candel Medical Company, una empresa especializada en  <strong>tratamiento y rehabilitación neurológicos</strong> . 
+Website for Candel Medical Company, a company specialized in <strong>neurological treatment and rehabilitation</strong>.
 </p>
-<p>Se destacan por ofrecer soluciones innovadoras en este campo, utilizando tecnología de punta para mejorar la calidad de vida de sus pacientes.
+<p>
+They stand out for offering innovative solutions in this field, using cutting-edge technology to improve their patients' quality of life.
 </p>
 
 </div>                                                                                     
@@ -37,7 +38,7 @@ Pagina web para Candel Medical Company, una empresa especializada en  <strong>tr
 <div align="center">
 <a href="https://apps.apple.com/cl/app/candelapp/id6450345984" target="_blank"><img width="60%" src="https://play-lh.googleusercontent.com/SrM1FfUasnMCDPTwkYbDDxUJlT46Mln5-teGhZ7IyNo9Ujf16g7sI4gAe78r3mxRKRA=w480-h960-rw" width="350"></a>
 <p>
-<img src="https://img.shields.io/badge/CÓDIGO PRIVADO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://www.candelmed.com/" target="_blank"><img src="https://img.shields.io/badge/Link Proyecto-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 </a>
 </p>
 
