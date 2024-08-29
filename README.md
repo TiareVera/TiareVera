@@ -13,7 +13,7 @@
 - 🧑‍🏫 Owner [Jet impresiones 3d](https://jetimpresiones3d.com/)
 <br>
 
-## Proyectos *bombitas*
+## *Currently working*
 <table>
 <tr>
 <td width="50%">
