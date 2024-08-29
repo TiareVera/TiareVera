@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/tiare-vera-2b17b9106/">Tiare</a> 💫</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/tiare-vera-2b17b9106/">Tiare</a> 💫</h1>
 </div>
 <img src="https://static.vecteezy.com/system/resources/previews/001/433/850/non_2x/christmas-banner-with-bokeh-lights-and-stars-free-vector.jpg">
 
